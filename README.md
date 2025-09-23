@@ -16,6 +16,9 @@ In part a, we're tasked to load the corresponding .csv file into a data frame na
 ```python
 cars = pd.read_csv('Cars.csv') # this code will run for all the cells after this
 ```
+
+Using `pd.read_csv()` the csv file 'Cars.csv' containing the dataset was loaded and assigned to the data frame named 'cars'.
+
 Note: the `'Cars.csv'` must be in the same folder as the .ipynb or .py file.
 
 <img width="378" height="60" alt="image" src="https://github.com/user-attachments/assets/35647059-1c2b-43d3-a70a-d39744544e3f" />
@@ -80,3 +83,9 @@ The output of the code above is as follows:
 Thank you for reading! 
 
 To see the main python programs for Programming Assignment 3, click this link https://github.com/juliusmendizabal/ECE-2112-PA-3 and download the .ipynb file or the .py file. Open on Jupyter Notebook, then run all cells.
+
+#### **README file Version History:**
+
+September 16, 2025 - Initial README output uploaded (content + format).
+
+September 23, 2025 - Updated few details + a README file Version History.
